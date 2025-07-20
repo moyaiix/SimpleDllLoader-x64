@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Projektmappenelemente/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="SomeDllLoader/SomeDllLoader.vcxproj" Id="0e5a7b80-2475-4e77-a865-ee9a58619f09" />
+</Solution>
